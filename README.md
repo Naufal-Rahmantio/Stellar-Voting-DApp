@@ -1,6 +1,3 @@
-Here’s your **edited README**, fully adapted for the **Voting / Polling DApp** while keeping the same professional structure 👇
-
----
 
 # Stellar Voting DApp
 
@@ -74,9 +71,8 @@ We envision a future where voting systems—whether for communities, organizatio
 
 ---
 
-## Contract Details
+##Smart Contract ID: CDJWAJX42DCIGY235VHLYGLSND3F7XL5Z6W4TDABLTBJPN4AH2NOO6CU
 
-* Contract Address: CDJWAJX42DCIGY235VHLYGLSND3F7XL5Z6W4TDABLTBJPN4AH2NOO6CU
 
 ---
 
